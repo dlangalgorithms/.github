@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="200">
+  <img src="https://github.com/dlangalgorithms/.github/blob/main/branding/logo.png" width="150">
 
 <h1> Dlang community </h1>
 </div>
