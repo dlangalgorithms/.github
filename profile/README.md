@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/dlangalgorithms/.github/blob/main/branding/logo.png" width="150">
 
-<h1> Dlang community </h1>
+<h2> Dlang community </h2>
 </div>
 
 Hello! 
