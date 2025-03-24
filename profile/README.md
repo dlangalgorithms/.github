@@ -3,13 +3,7 @@
 
 <h2> Dlang community </h2>
 </div>
-
-Hello! 
-
-This community was created to popularize the D language.
  
-> Contributions to the repository are welcome
-
 Here you can find :
 * implementations of algorithms in this language
 * our own libraries for D
@@ -18,3 +12,4 @@ Here you can find :
 * and many other interesting things
 
 
+> Contributions to the repository are welcome
