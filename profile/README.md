@@ -3,6 +3,8 @@
 
 <h2> Dlang community </h2>
 </div>
+
+[We in telegram](https://t.me/dlang_ru)
  
 Here you can find :
 * implementations of algorithms in this language
